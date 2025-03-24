@@ -1,0 +1,2 @@
+1> Clone the Repo => git clone url/ git clone -b branchName url
+2> intitialise the git
